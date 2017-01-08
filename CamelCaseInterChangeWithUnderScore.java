@@ -5,7 +5,6 @@
  *
  *   Created on 2015年11月18日 下午2:11:04
  */ 
-package com.ichinait.car.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
